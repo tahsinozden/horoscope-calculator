@@ -1,0 +1,2 @@
+# horoscope-calculator
+Horoscope Calculator
